@@ -1,0 +1,138 @@
+{
+  "persons" : [ {/
+    "name" : "Alex Yeoh",
+    "phone" : "87438807",
+    "email" : "alexyeoh@example.com",
+    "nationality" : "Chinese",
+    "tutorialGroup" : "T09",
+    "gender" : "M",
+    "remark" : "likes to code",
+    "tagged" : [ {
+      "tagName" : "friends",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "alexy"
+    } ]
+  }, {
+    "name" : "Bernice Yu",
+    "phone" : "99272758",
+    "email" : "berniceyu@example.com",
+    "nationality" : "Indonesian",
+    "tutorialGroup" : "T10",
+    "gender" : "F",
+    "remark" : "likes to dance",
+    "tagged" : [ {
+      "tagName" : "colleagues",
+      "tagColour" : "#3e7b91"
+    }, {
+      "tagName" : "friends",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "bernicey"
+    } ]
+  }, {
+    "name" : "Charlotte Oliveiro",
+    "phone" : "93210283",
+    "email" : "charlotte@example.com",
+    "nationality" : "Malaysian",
+    "tutorialGroup" : "W28",
+    "gender" : "F",
+    "remark" : "likes to eat",
+    "tagged" : [ {
+      "tagName" : "neighbours",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "charlotteo"
+    } ]
+  }, {
+    "name" : "David Li",
+    "phone" : "91031282",
+    "email" : "lidavid@example.com",
+    "nationality" : "Singaporean",
+    "tutorialGroup" : "T02",
+    "gender" : "M",
+    "remark" : "likes to cook",
+    "tagged" : [ {
+      "tagName" : "family",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "davidl"
+    } ]
+  }, {
+    "name" : "Irfan Ibrahim",
+    "phone" : "92492021",
+    "email" : "irfan@example.com",
+    "nationality" : "Singaporean",
+    "tutorialGroup" : "W01",
+    "gender" : "M",
+    "remark" : "likes to bake",
+    "tagged" : [ {
+      "tagName" : "classmates",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "irfani"
+    } ]
+  }, {
+    "name" : "Roy Balakrishnan",
+    "phone" : "92624417",
+    "email" : "royb@example.com",
+    "nationality" : "South korean",
+    "tutorialGroup" : "T07",
+    "gender" : "M",
+    "remark" : "likes to run",
+    "tagged" : [ {
+      "tagName" : "colleagues",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "royb"
+    } ]
+  }, {
+    "name" : "oonga",
+    "phone" : "43424324",
+    "email" : "",
+    "nationality" : "",
+    "tutorialGroup" : "",
+    "gender" : "",
+    "remark" : "",
+    "tagged" : [ {
+      "tagName" : "0539sa",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ ]
+  }, {
+    "name" : "dwa",
+    "phone" : "+398",
+    "email" : "",
+    "nationality" : "",
+    "tutorialGroup" : "",
+    "gender" : "",
+    "remark" : "",
+    "tagged" : [ ],
+    "socialHandles" : [ ]
+  }, {
+    "name" : "daw",
+    "phone" : "",
+    "email" : "",
+    "nationality" : "",
+    "tutorialGroup" : "",
+    "gender" : "",
+    "remark" : "",
+    "tagged" : [ ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "ツヅ🐼"
+    } ]
+  } ]
+}

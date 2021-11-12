@@ -1,0 +1,533 @@
+Nov 12, 2021 4:12:01 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Nov 12, 2021 4:12:01 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Nov 12, 2021 4:12:01 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: Json file config.json not found
+Nov 12, 2021 4:12:01 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Nov 12, 2021 4:12:01 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: Json file preferences.json not found
+Nov 12, 2021 4:12:01 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Nov 12, 2021 4:12:01 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: Json file data\addressbook.json not found
+Nov 12, 2021 4:12:01 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Nov 12, 2021 4:12:01 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.2.0ea
+Nov 12, 2021 4:12:01 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Nov 12, 2021 4:12:49 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Nov 12, 2021 4:12:49 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Nov 12, 2021 4:12:49 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Nov 12, 2021 4:12:49 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Nov 12, 2021 4:12:49 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: Json file data\addressbook.json not found
+Nov 12, 2021 4:12:49 PM seedu.address.MainApp initModelManager
+INFO: Data file not found. Will be starting with a sample AddressBook
+Nov 12, 2021 4:12:49 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.2.0ea
+Nov 12, 2021 4:12:49 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Nov 12, 2021 4:13:43 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/alice bee]
+Nov 12, 2021 4:13:43 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: alice bee
+Nov 12, 2021 4:13:52 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/ alice  bee]
+Nov 12, 2021 4:13:52 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: alice  bee
+Nov 12, 2021 4:14:44 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/alice bee]
+Nov 12, 2021 4:14:44 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/alice bee
+Nov 12, 2021 4:17:03 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][g/f nat/Singaporean?]
+Nov 12, 2021 4:17:03 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: g/f nat/Singaporean?
+Nov 12, 2021 4:17:08 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][g/f nat/Singaporean]
+Nov 12, 2021 4:17:08 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: g/f nat/Singaporean
+Nov 12, 2021 4:17:46 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][find g/f nat/Singaporean]
+Nov 12, 2021 4:17:46 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: 0 persons listed!
+Nov 12, 2021 4:17:49 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][list]
+Nov 12, 2021 4:17:49 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Listed all persons
+Nov 12, 2021 4:18:50 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][addn/Amy Tan nat/Singaporean tg/W08?]
+Nov 12, 2021 4:18:50 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: addn/Amy Tan nat/Singaporean tg/W08?
+Nov 12, 2021 4:19:00 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Amy Tan nat/Singaporean tg/W08?]
+Nov 12, 2021 4:19:00 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Amy Tan nat/Singaporean tg/W08?
+Nov 12, 2021 4:19:10 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Amy Tan nat/Singaporean tg/W08]
+Nov 12, 2021 4:19:10 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: Amy Tan; 
+Nationality: Singaporean; 
+Tutorial Group: W08
+Nov 12, 2021 4:20:54 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Amy Tan nat/Singaporean tg/W08]
+Nov 12, 2021 4:20:54 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Amy Tan nat/Singaporean tg/W08
+Nov 12, 2021 4:20:57 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Amy  Tan nat/Singaporean tg/W08]
+Nov 12, 2021 4:20:57 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: Amy  Tan; 
+Nationality: Singaporean; 
+Tutorial Group: W08
+Nov 12, 2021 4:21:01 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Nov 12, 2021 4:21:07 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Nov 12, 2021 4:21:07 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Nov 12, 2021 4:21:07 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Nov 12, 2021 4:21:07 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Nov 12, 2021 4:21:08 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.2.0ea
+Nov 12, 2021 4:21:08 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Nov 12, 2021 4:21:46 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/98765432 e/ben@yahoo.com g/M]
+Nov 12, 2021 4:21:46 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: Benedict; 
+Gender: M; 
+Phone: 98765432; 
+Email: ben@yahoo.com
+Nov 12, 2021 4:24:42 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add tall t/friend]
+Nov 12, 2021 4:24:42 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add tall t/friend
+Nov 12, 2021 4:24:51 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][addt all t/friend]
+Nov 12, 2021 4:24:51 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Added Tag: [friend, #3e7b91].
+Nov 12, 2021 4:25:23 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/987654321321321321312321321312313213132132132122222222222 e/ben@yahoo.com g/M]
+Nov 12, 2021 4:25:23 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Benedict p/987654321321321321312321321312313213132132132122222222222 e/ben@yahoo.com g/M
+Nov 12, 2021 4:25:29 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/987654321321321222222 e/ben@yahoo.com g/M]
+Nov 12, 2021 4:25:29 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Benedict p/987654321321321222222 e/ben@yahoo.com g/M
+Nov 12, 2021 4:25:41 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/9876543213222222 e/-ben@yahoo.com g/M]
+Nov 12, 2021 4:25:41 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Benedict p/9876543213222222 e/-ben@yahoo.com g/M
+Nov 12, 2021 4:25:50 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/9876543213222 e/-ben@yahoo.com g/M]
+Nov 12, 2021 4:25:50 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Benedict p/9876543213222 e/-ben@yahoo.com g/M
+Nov 12, 2021 4:26:02 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/987654321322211 e/-ben@yahoo.com g/M]
+Nov 12, 2021 4:26:02 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Benedict p/987654321322211 e/-ben@yahoo.com g/M
+Nov 12, 2021 4:26:03 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/9876543213222111 e/-ben@yahoo.com g/M]
+Nov 12, 2021 4:26:03 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Benedict p/9876543213222111 e/-ben@yahoo.com g/M
+Nov 12, 2021 4:26:05 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/987654321322211 e/-ben@yahoo.com g/M]
+Nov 12, 2021 4:26:05 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/Benedict p/987654321322211 e/-ben@yahoo.com g/M
+Nov 12, 2021 4:26:09 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict p/987654321322211 e/ben@yahoo.com g/M]
+Nov 12, 2021 4:26:09 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: Benedict; 
+Gender: M; 
+Phone: 987654321322211; 
+Email: ben@yahoo.com
+Nov 12, 2021 4:26:52 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/benedict p/98765432 e/ben@yahoo.com g/m nat/e03ie09s ]
+Nov 12, 2021 4:26:52 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/benedict p/98765432 e/ben@yahoo.com g/m nat/e03ie09s 
+Nov 12, 2021 4:28:08 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/benedict p/98765432 e/ben@yahoo.com g/m nat/Central African r/r4wrwtw6wyr89ew8eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee]
+Nov 12, 2021 4:28:08 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: benedict; 
+Gender: M; 
+Phone: 98765432; 
+Email: ben@yahoo.com; 
+Nationality: Central african; 
+Remark: r4wrwtw6wyr89ew8eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+Nov 12, 2021 4:29:22 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Benedict  p/98765432 e/ben@yahoo.com g/m ]
+Nov 12, 2021 4:29:22 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: Benedict; 
+Gender: M; 
+Phone: 98765432; 
+Email: ben@yahoo.com
+Nov 12, 2021 4:32:04 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/benedict lee p/98765432 e/ben@yahoo.com g/M t/hfd8s9fh8e9syfe89sfye89sfyds89fyes89fyds89fyes89fyds89fyes89fes89fe]
+Nov 12, 2021 4:32:04 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: benedict lee; 
+Gender: M; 
+Phone: 98765432; 
+Email: ben@yahoo.com; 
+Tags: [hfd8s9fh8e9syfe89sfye89sfyds89fyes89fyds89fyes89fyds89fyes89fes89fe, #3e7b91]
+Nov 12, 2021 4:32:31 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/benedict lee p/98765432 e/ben@yahoo.com g/M tg/hfd8s9fh8e9syfe89sfye89sfyds89fyes89fyds89fyes89fyds89fyes89fes89fe]
+Nov 12, 2021 4:32:31 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/benedict lee p/98765432 e/ben@yahoo.com g/M tg/hfd8s9fh8e9syfe89sfye89sfyds89fyes89fyds89fyes89fyds89fyes89fes89fe
+Nov 12, 2021 4:32:49 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/benedict lee p/98765432 e/ben@yahoo.com g/M tg/w9]
+Nov 12, 2021 4:32:49 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/benedict lee p/98765432 e/ben@yahoo.com g/M tg/w9
+Nov 12, 2021 4:32:51 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/benedict lee p/98765432 e/ben@yahoo.com g/M tg/w99]
+Nov 12, 2021 4:32:51 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: benedict lee; 
+Gender: M; 
+Phone: 98765432; 
+Email: ben@yahoo.com; 
+Tutorial Group: w99
+Nov 12, 2021 4:33:30 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/benedict lee p/98765432 e/ben@yahoo.com g/M tg/W99]
+Nov 12, 2021 4:33:30 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/benedict lee p/98765432 e/ben@yahoo.com g/M tg/W99
+Nov 12, 2021 4:33:37 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/benedict liu p/98765432 e/ben@yahoo.com g/M tg/W99]
+Nov 12, 2021 4:33:37 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: benedict liu; 
+Gender: M; 
+Phone: 98765432; 
+Email: ben@yahoo.com; 
+Tutorial Group: W99
+Nov 12, 2021 4:33:54 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][find tg/w99]
+Nov 12, 2021 4:33:54 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: 2 persons listed!
+Nov 12, 2021 4:33:57 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][list]
+Nov 12, 2021 4:33:57 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Listed all persons
+Nov 12, 2021 4:34:15 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][find tg/w9]
+Nov 12, 2021 4:34:15 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: 2 persons listed!
+Nov 12, 2021 4:36:55 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][n/Ernest s/tg:ernest2334 s/ig:ernessst?]
+Nov 12, 2021 4:36:55 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: n/Ernest s/tg:ernest2334 s/ig:ernessst?
+Nov 12, 2021 4:37:00 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Ernest s/tg:ernest2334 s/ig:ernessst?]
+Nov 12, 2021 4:37:00 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: Ernest; 
+Social Handles: [ig:ernessst?][tg:ernest2334]
+Nov 12, 2021 4:37:41 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Ernest s/tg:ernest2334 s/ig:ernessst?rfweafrwat4wat4watretrstretfdgfdgfd655555555555555555555]
+Nov 12, 2021 4:37:41 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: Ernest; 
+Social Handles: [tg:ernest2334][ig:ernessst?rfweafrwat4wat4watretrstretfdgfdgfd655555555555555555555]
+Nov 12, 2021 4:38:19 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][n/Ernest s/tg:ernest2334 s/ig:ernessst?66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666]
+Nov 12, 2021 4:38:19 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: n/Ernest s/tg:ernest2334 s/ig:ernessst?66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+Nov 12, 2021 4:38:25 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Ernest s/tg:ernest2334 s/ig:ernessst?66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666]
+Nov 12, 2021 4:38:25 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: Ernest; 
+Social Handles: [tg:ernest2334][ig:ernessst?66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666]
+Nov 12, 2021 4:38:47 PM seedu.address.ui.CommandHistory getPrevCommand
+INFO: Previous Command: add n/Ernest s/tg:ernest2334 s/ig:ernessst?66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+Nov 12, 2021 4:42:19 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][sort n/]
+Nov 12, 2021 4:42:19 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Sorted all persons by name in ascending order
+Nov 12, 2021 4:42:25 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][sort n/]
+Nov 12, 2021 4:42:25 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Sorted all persons by name in ascending order
+Nov 12, 2021 4:42:31 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][sort tg/]
+Nov 12, 2021 4:42:31 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Sorted all persons by tutorial group in ascending order
+Nov 12, 2021 4:43:05 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][stat]
+Nov 12, 2021 4:43:05 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: stat
+Nov 12, 2021 4:43:10 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][stat w99]
+Nov 12, 2021 4:43:10 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: stat w99
+Nov 12, 2021 4:43:24 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][stat w08]
+Nov 12, 2021 4:43:24 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Statistics: 
+Gender statistics: 
+Male: 0.0% 
+Female: 0.0% 
+Others: 100.0%
+
+Nationalities statistics: 
+Singaporean: 2
+
+Nov 12, 2021 4:43:51 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import test.json]
+Nov 12, 2021 4:43:51 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: Json file data\test.json not found
+Nov 12, 2021 4:43:51 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: import test.json
+Nov 12, 2021 4:44:33 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][list]
+Nov 12, 2021 4:44:33 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Listed all persons
+Nov 12, 2021 4:44:35 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Nov 12, 2021 4:44:38 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Nov 12, 2021 4:44:38 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Nov 12, 2021 4:44:39 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Nov 12, 2021 4:44:39 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Nov 12, 2021 4:44:39 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.2.0ea
+Nov 12, 2021 4:44:39 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Nov 12, 2021 4:44:51 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Nov 12, 2021 4:44:53 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Nov 12, 2021 4:44:53 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Nov 12, 2021 4:44:53 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Nov 12, 2021 4:44:53 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Nov 12, 2021 4:44:53 PM seedu.address.storage.JsonAddressBookStorage readAddressBook
+INFO: Illegal values found in data\addressbook.json: Social handle should be in PLATFORM:USERID format.
+USERID should be tied to a specific account of the PLATFORM. 
+Supported PLATFORM: Instagram (ig), Telegram (tg), Linkedin (in), Facebook (fb), Snapchat (sc), Twitter (tw), Github (gh), Discord (dc)
+(e.g. tg:tanjj3298)
+
+Note:
+In edit command, social handles can be removed from a person by leaving the social handle value blank (i.e. s/ ). To remove a specific social handle from a person, the platform of the social handle will need to be stated while leaving the userid value empty (e.g. s/tg: to remove Telegram social handle from the person)
+Nov 12, 2021 4:44:53 PM seedu.address.MainApp initModelManager
+WARNING: Data file not in the correct format. Will be starting with an empty AddressBook
+Nov 12, 2021 4:44:53 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.2.0ea
+Nov 12, 2021 4:44:53 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Nov 12, 2021 4:45:02 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/ dj9sa]
+Nov 12, 2021 4:45:03 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New person added: 
+Name: dj9sa
+Nov 12, 2021 4:45:11 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/dj9sa]
+Nov 12, 2021 4:45:11 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/dj9sa
+Nov 12, 2021 4:45:13 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/dj9sa ]
+Nov 12, 2021 4:45:13 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/dj9sa 
+Nov 12, 2021 4:45:15 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/dj9sa  ]
+Nov 12, 2021 4:45:15 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: add n/dj9sa  
+Nov 12, 2021 4:45:22 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping Address Book ] =============================
+Nov 12, 2021 4:45:49 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Nov 12, 2021 4:45:49 PM seedu.address.MainApp initConfig
+INFO: Using config file : config.json
+Nov 12, 2021 4:45:50 PM seedu.address.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Nov 12, 2021 4:45:50 PM seedu.address.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Nov 12, 2021 4:45:50 PM seedu.address.MainApp start
+INFO: Starting AddressBook V0.2.0ea
+Nov 12, 2021 4:45:50 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+Nov 12, 2021 4:46:07 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import addressbook - Copy.json]
+Nov 12, 2021 4:46:07 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: import addressbook - Copy.json
+Nov 12, 2021 4:46:50 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import addressbook - Copy.json]
+Nov 12, 2021 4:46:50 PM seedu.address.commons.util.JsonUtil readJsonFile
+WARNING: Error reading from jsonFile file data\addressbook - Copy.json: com.fasterxml.jackson.databind.JsonMappingException: Unexpected character (']' (code 93)): expected a value
+ at [Source: {
+  "persons" : [ {
+    "name" : "David Li",
+    "phone" : "91031282",
+    "email" : "lidavid@example.com",
+    "nationality" : "Singaporean",
+    "tutorialGroup" : "T02",
+    "gender" : "M",
+    "remark" : "likes to cook",
+    "tagged" : [ {
+      "tagName" : "friend",
+      "tagColour" : "#3e7b91"
+    }, {
+      "tagName" : "family",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "davidldsa"
+    } ]
+  }, ]
+}; line: 21, column: 7]
+ at [Source: {
+  "persons" : [ {
+    "name" : "David Li",
+    "phone" : "91031282",
+    "email" : "lidavid@example.com",
+    "nationality" : "Singaporean",
+    "tutorialGroup" : "T02",
+    "gender" : "M",
+    "remark" : "likes to cook",
+    "tagged" : [ {
+      "tagName" : "friend",
+      "tagColour" : "#3e7b91"
+    }, {
+      "tagName" : "family",
+      "tagColour" : "#3e7b91"
+    } ],
+    "socialHandles" : [ {
+      "platform" : "tg",
+      "value" : "davidldsa"
+    } ]
+  }, ]
+}; line: 21, column: 6] (through reference chain: seedu.address.storage.JsonSerializableAddressBook["persons"])
+Nov 12, 2021 4:46:50 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: import addressbook - Copy.json
+Nov 12, 2021 4:47:21 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import addressbook - Copy.json]
+Nov 12, 2021 4:47:22 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: File successfully imported.
+1 new contacts added
+Nov 12, 2021 4:47:52 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete 21]
+Nov 12, 2021 4:47:52 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Deleted Person: 
+Name: David Li; 
+Gender: M; 
+Phone: 91031282; 
+Email: lidavid@example.com; 
+Nationality: Singaporean; 
+Tutorial Group: T02; 
+Remark: likes to cook; 
+Social Handles: [tg:davidldsa]; 
+Tags: [friend, #3e7b91][family, #3e7b91]
+Nov 12, 2021 4:48:01 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import addressbook - Copy.json]
+Nov 12, 2021 4:48:01 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: File successfully imported.
+1 new contacts added
+Nov 12, 2021 4:48:10 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete 21]
+Nov 12, 2021 4:48:10 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Deleted Person: 
+Name: David Li; 
+Gender: M; 
+Phone: 91031282; 
+Email: lidavid@example.com; 
+Nationality: Singaporean; 
+Tutorial Group: T02; 
+Remark: likes to cook; 
+Social Handles: [tg:davidldsa]; 
+Tags: [friend, #3e7b91][family, #3e7b91]
+Nov 12, 2021 4:48:13 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete -2]
+Nov 12, 2021 4:48:13 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: delete -2
+Nov 12, 2021 4:48:16 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete 0]
+Nov 12, 2021 4:48:16 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: delete 0
+Nov 12, 2021 4:48:18 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete 32]
+Nov 12, 2021 4:48:18 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: delete 32
+Nov 12, 2021 4:48:26 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import addressbook - Copy.json]
+Nov 12, 2021 4:48:26 PM seedu.address.storage.JsonAddressBookStorage readAddressBook
+INFO: Illegal values found in data\addressbook - Copy.json: Social handle should be in PLATFORM:USERID format.
+USERID should be tied to a specific account of the PLATFORM. 
+Supported PLATFORM: Instagram (ig), Telegram (tg), Linkedin (in), Facebook (fb), Snapchat (sc), Twitter (tw), Github (gh), Discord (dc)
+(e.g. tg:tanjj3298)
+
+Note:
+In edit command, social handles can be removed from a person by leaving the social handle value blank (i.e. s/ ). To remove a specific social handle from a person, the platform of the social handle will need to be stated while leaving the userid value empty (e.g. s/tg: to remove Telegram social handle from the person)
+Nov 12, 2021 4:48:26 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: import addressbook - Copy.json
+Nov 12, 2021 4:49:09 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][export ./data?addressbook - Copy.json]
+Nov 12, 2021 4:49:09 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: export ./data?addressbook - Copy.json
+Nov 12, 2021 4:49:14 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][export ./dataaddressbook - Copy.json]
+Nov 12, 2021 4:49:14 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: export ./dataaddressbook - Copy.json
+Nov 12, 2021 4:49:16 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][export /dataaddressbook - Copy.json]
+Nov 12, 2021 4:49:16 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: export /dataaddressbook - Copy.json
+Nov 12, 2021 4:49:20 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][export dataaddressbook - Copy.json]
+Nov 12, 2021 4:49:20 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: File successfully exported as JSON format to data\dataaddressbook - Copy.json
+Nov 12, 2021 4:49:33 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][export addressbook.json]
+Nov 12, 2021 4:49:33 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: File successfully exported as JSON format to data\addressbook.json
+Nov 12, 2021 4:50:06 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import addressbook - Copy.json]
+Nov 12, 2021 4:50:06 PM seedu.address.storage.JsonAddressBookStorage readAddressBook
+INFO: Illegal values found in data\addressbook - Copy.json: Social handle should be in PLATFORM:USERID format.
+USERID should be tied to a specific account of the PLATFORM. 
+Supported PLATFORM: Instagram (ig), Telegram (tg), Linkedin (in), Facebook (fb), Snapchat (sc), Twitter (tw), Github (gh), Discord (dc)
+(e.g. tg:tanjj3298)
+
+Note:
+In edit command, social handles can be removed from a person by leaving the social handle value blank (i.e. s/ ). To remove a specific social handle from a person, the platform of the social handle will need to be stated while leaving the userid value empty (e.g. s/tg: to remove Telegram social handle from the person)
+Nov 12, 2021 4:50:06 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: import addressbook - Copy.json
+Nov 12, 2021 4:50:19 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import addressbook - Copy.json]
+Nov 12, 2021 4:50:19 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: File successfully imported.
+1 new contacts added
+Nov 12, 2021 4:50:24 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][import addressbook - Copy.json]
+Nov 12, 2021 4:50:24 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: import addressbook - Copy.json
+Nov 12, 2021 4:54:02 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][addt all]
+Nov 12, 2021 4:54:02 PM seedu.address.ui.MainWindow executeCommand
+INFO: Invalid command: addt all
+Nov 12, 2021 4:54:05 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][addt all t/friend]
+Nov 12, 2021 4:54:12 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][addt all t/friend]

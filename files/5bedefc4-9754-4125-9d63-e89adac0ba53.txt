@@ -1,0 +1,108 @@
+{
+  "persons" : [ {
+    "uuid" : "376fc044-f407-44a4-9abd-3035aedf27e3",
+    "name" : "Regina Phalange",
+    "phone" : "9990",
+    "email" : "charlotte@example.com",
+    "address" : "Blk 11 Ang Mo Kio Street 74, #11-04",
+    "remark" : "remark",
+    "tagged" : [ {
+      "tagName" : "Assignee",
+      "tagValue" : "Ke",
+      "editAccessRoles" : [ "SUPERVISOR", "TELEMARKETER" ]
+    }, {
+      "tagName" : "ProductB",
+      "tagValue" : "",
+      "editAccessRoles" : [ "TELEMARKETER", "SUPERVISOR" ]
+    } ],
+    "completionStat" : "INCOMPLETE"
+  }, {
+    "uuid" : "89f38212-6066-466e-aa67-8391d4136a62",
+    "name" : "David Li",
+    "phone" : "91031282",
+    "email" : "lidavid@example.com",
+    "address" : "Blk 436 Serangoon Gardens Street 26, #16-43",
+    "remark" : "",
+    "tagged" : [ {
+      "tagName" : "Assignee",
+      "tagValue" : "Ke",
+      "editAccessRoles" : [ "SUPERVISOR", "TELEMARKETER" ]
+    } ],
+    "completionStat" : "ONGOING"
+  }, {
+    "uuid" : "5adca839-2825-49c2-82e2-78830d923aa4",
+    "name" : "Irfan Ibrahim",
+    "phone" : "92492021",
+    "email" : "irfan@example.com",
+    "address" : "Blk 47 Tampines Street 20, #17-35",
+    "remark" : "",
+    "tagged" : [ {
+      "tagName" : "Assignee",
+      "tagValue" : "Ke",
+      "editAccessRoles" : [ "SUPERVISOR", "TELEMARKETER" ]
+    }, {
+      "tagName" : "ProductB",
+      "tagValue" : "",
+      "editAccessRoles" : [ "TELEMARKETER", "SUPERVISOR" ]
+    } ],
+    "completionStat" : "INCOMPLETE"
+  }, {
+    "uuid" : "a1d557d9-c2ac-48a9-bf79-e7771afc72d3",
+    "name" : "John Doe",
+    "phone" : "87654321",
+    "email" : "hello@tp.com",
+    "address" : "NUS",
+    "remark" : "",
+    "tagged" : [ {
+      "tagName" : "Assignee",
+      "tagValue" : "Ke",
+      "editAccessRoles" : [ "SUPERVISOR", "TELEMARKETER" ]
+    } ],
+    "completionStat" : "INCOMPLETE"
+  }, {
+    "uuid" : "516163ea-ed07-494a-b02a-1259920cced5",
+    "name" : "John Doe",
+    "phone" : "87654320",
+    "email" : "hello@tp.com",
+    "address" : "NUS",
+    "remark" : "",
+    "tagged" : [ ],
+    "completionStat" : "INCOMPLETE"
+  }, {
+    "uuid" : "026db131-6dc5-40fe-8146-1f013290e540",
+    "name" : "Albert Saw",
+    "phone" : "98765432",
+    "email" : "albertsaw@gmail.com",
+    "address" : "TampinesStreet 23, Block 777, #05-12",
+    "remark" : "",
+    "tagged" : [ ],
+    "completionStat" : "INCOMPLETE"
+  }, {
+    "uuid" : "e61d32e0-dc4b-4cca-87a2-a9804e3cc937",
+    "name" : "John Doe",
+    "phone" : "1234",
+    "email" : "johndoe@gmail.com",
+    "address" : "NUS",
+    "remark" : "",
+    "tagged" : [ ],
+    "completionStat" : "INCOMPLETE"
+  }, {
+    "uuid" : "9e337119-d154-4286-8b7d-3594dba320ce",
+    "name" : "John Doe",
+    "phone" : "5678",
+    "email" : "johndoe@gmail.com",
+    "address" : "NUS",
+    "remark" : "",
+    "tagged" : [ ],
+    "completionStat" : "INCOMPLETE"
+  }, {
+    "uuid" : "5453462e-7c03-4193-9a2e-1910d8eb1f5c",
+    "name" : "John Doe",
+    "phone" : "56789",
+    "email" : "johndoe@gmail.com",
+    "address" : "NUS",
+    "remark" : "",
+    "tagged" : [ ],
+    "completionStat" : "INCOMPLETE"
+  } ]
+}
